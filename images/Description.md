@@ -1,0 +1,1 @@
+Self images directory.
